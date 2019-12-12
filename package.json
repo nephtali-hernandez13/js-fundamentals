@@ -1,0 +1,23 @@
+{
+  "name": "excercises",
+  "version": "1.0.0",
+  "main": "classes-and-modules.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nephtali-hernandez13/js-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nephtali-hernandez13/js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/nephtali-hernandez13/js-fundamentals#readme",
+  "description": ""
+}
