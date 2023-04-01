@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "classes-and-modules.js",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {},
   "scripts": {
